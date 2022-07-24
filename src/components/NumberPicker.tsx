@@ -20,7 +20,6 @@ export default function NumberPicker(): JSX.Element {
       counterValueFromCurrentRender,
     ]);
   };
-
   return (
     <>
       <h1>Number picker</h1>
